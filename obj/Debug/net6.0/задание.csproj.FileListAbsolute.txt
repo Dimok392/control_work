@@ -1,0 +1,15 @@
+C:\Users\immor\OneDrive\Desktop\контрольная работа\задание\bin\Debug\net6.0\задание.exe
+C:\Users\immor\OneDrive\Desktop\контрольная работа\задание\bin\Debug\net6.0\задание.deps.json
+C:\Users\immor\OneDrive\Desktop\контрольная работа\задание\bin\Debug\net6.0\задание.runtimeconfig.json
+C:\Users\immor\OneDrive\Desktop\контрольная работа\задание\bin\Debug\net6.0\задание.dll
+C:\Users\immor\OneDrive\Desktop\контрольная работа\задание\bin\Debug\net6.0\задание.pdb
+C:\Users\immor\OneDrive\Desktop\контрольная работа\задание\obj\Debug\net6.0\задание.csproj.AssemblyReference.cache
+C:\Users\immor\OneDrive\Desktop\контрольная работа\задание\obj\Debug\net6.0\задание.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\immor\OneDrive\Desktop\контрольная работа\задание\obj\Debug\net6.0\задание.AssemblyInfoInputs.cache
+C:\Users\immor\OneDrive\Desktop\контрольная работа\задание\obj\Debug\net6.0\задание.AssemblyInfo.cs
+C:\Users\immor\OneDrive\Desktop\контрольная работа\задание\obj\Debug\net6.0\задание.csproj.CoreCompileInputs.cache
+C:\Users\immor\OneDrive\Desktop\контрольная работа\задание\obj\Debug\net6.0\задание.dll
+C:\Users\immor\OneDrive\Desktop\контрольная работа\задание\obj\Debug\net6.0\refint\задание.dll
+C:\Users\immor\OneDrive\Desktop\контрольная работа\задание\obj\Debug\net6.0\задание.pdb
+C:\Users\immor\OneDrive\Desktop\контрольная работа\задание\obj\Debug\net6.0\задание.genruntimeconfig.cache
+C:\Users\immor\OneDrive\Desktop\контрольная работа\задание\obj\Debug\net6.0\ref\задание.dll
